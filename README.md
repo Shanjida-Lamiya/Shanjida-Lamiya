@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm Shanjida Lamiya</h1>
+<h1 align="center">🌸 Shanjida Lamiya
+💻 Computer Science & Engineering Student | System Thinker | Problem Solver
+
+Hi there 👋
+
+I’m a passionate CSE student who loves turning complex logic into clean, structured solutions. From designing digital circuits to building efficient software systems, I enjoy understanding how things work — both at the hardware and software levels.
+
+I believe great systems are built on strong fundamentals. That’s why I focus on:
+
+🔹 Data Structures & Algorithms
+
+🔹 Digital Logic Design & System Architecture
+
+🔹 Database Design (ERD, Normalization, Query Optimization)
+
+🔹 Writing clean, maintainable, and scalable code</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanjidalamiya" alt="shanjidalamiya" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Health Guide**
+- 🔭 I’m currently working on **Smart Health Guide by using Machine Learning**
 
 - 📫 How to reach me **lamiya131051@gmail.com**
 
